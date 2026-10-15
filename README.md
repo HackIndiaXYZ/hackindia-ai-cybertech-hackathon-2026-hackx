@@ -1,7 +1,8 @@
 # MemoryOS — Persistent Memory for AI Assistants
 
-**Team:** HackX  
-**Track:** AI / Cybersecurity (select the track that matches the event rules)
+**Team:** HackX  Team Members: [SAMIKSHA VERMA], [SAMEER PAL]
+**Track:** AI/ML
+
 
 ## Problem
 AI assistants can struggle to retain useful context between separate conversations. Users may have to repeat their goals, preferences, and ongoing project details, which can make assistance feel fragmented and less personalized.
